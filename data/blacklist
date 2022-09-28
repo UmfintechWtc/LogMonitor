@@ -1,0 +1,8 @@
+SystemLog:
+  - write error
+  - read error
+NginxLog:
+  - wtc
+  - lweim
+SecureLog:
+  - wzx
